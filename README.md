@@ -13,7 +13,6 @@ Q: How do we use constraint propagation to solve the diagonal sudoku problem?
 A: We'll add an additional local constraint that two diagonals, [A1, B2, ..., I9] and [A9, B8, ..., I1],   in the board include one set of all digits, digits 1 through 9 appear only once. 
 
 
-
 ### Conda Environments
 You can find the Conda environment file for Mac OS at environment.yml
 
@@ -22,4 +21,4 @@ You can find the Conda environment file for Mac OS at environment.yml
 
 * http://norvig.com/sudoku.html
 * https://github.com/udacity/aind-sudoku
-# Sudoku
+
